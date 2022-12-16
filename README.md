@@ -30,5 +30,5 @@ https://www.goodreads.com/book/show/42052388-concurrency-in-net?ac=1&from_search
 :heavy_check_mark: [ASP NET Core in Action, Second Edition] \
 https://www.goodreads.com/book/show/37836790-asp-net-core-in-action?ac=1&from_search=true&qid=g1HVVNLUti&rank=1
 
-:x: [Dependency Injection in .NET] \
+:heavy_check_mark: [Dependency Injection in .NET] \
 https://www.goodreads.com/en/book/show/9407722-dependency-injection-in-net
