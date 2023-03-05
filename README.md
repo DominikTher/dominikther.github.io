@@ -32,3 +32,6 @@ https://www.goodreads.com/book/show/37836790-asp-net-core-in-action?ac=1&from_se
 
 :heavy_check_mark: [Dependency Injection in .NET] \
 https://www.goodreads.com/en/book/show/9407722-dependency-injection-in-net
+
+:x: [Understanding the Four Rules of Simple Design] \
+https://www.goodreads.com/en/book/show/21841698
