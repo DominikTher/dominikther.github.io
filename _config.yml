@@ -1,3 +1,5 @@
 theme: minima
+minima:
+  skin: dark
 title: Dominik Ther
 description: Samples, notes and other things
