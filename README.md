@@ -6,6 +6,9 @@ https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-
 :heavy_check_mark: [System Design Interview] \
 https://www.goodreads.com/en/book/show/54109255-system-design-interview-an-insider-s-guide
 
+:heavy_check_mark: [System Design Interview 2] \
+https://www.goodreads.com/book/show/60631342-system-design-interview-an-insider-s-guide
+
 :heavy_check_mark: [Software Architecture in Practice] \
 https://www.goodreads.com/book/show/70143.Software_Architecture_in_Practice?from_search=true&from_srp=true&qid=3aXP74xp6O&rank=1
 
