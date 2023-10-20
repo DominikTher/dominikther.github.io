@@ -2,4 +2,7 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
 title: Dominik Ther
-description: Samples, notes and other things
+description: Learning, code samples, insights, and my personal discoveries.
+author:
+  name: Dominik Ther
+show_excerpts: true
