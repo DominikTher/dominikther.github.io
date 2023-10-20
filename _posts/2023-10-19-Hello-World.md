@@ -12,3 +12,18 @@ Ham hock rump cupim, meatloaf kevin sausage brisket strip steak pastrami shankle
 Pork belly alcatra salami, bacon turkey flank pork loin sausage tenderloin pastrami. Ham hock pork chop pastrami meatball short loin pork andouille kevin shoulder prosciutto capicola. Drumstick pancetta burgdoggen pig, meatloaf t-bone tail ham hock short ribs leberkas. Beef ribs kielbasa frankfurter alcatra tail short ribs meatloaf buffalo chuck drumstick ribeye shoulder. Leberkas sirloin venison meatloaf chuck buffalo. Tail pork frankfurter, sausage short loin turducken cow chicken filet mignon. Beef tri-tip boudin sausage prosciutto.
 
 Salami kielbasa short ribs ball tip, rump tenderloin shoulder picanha cow pancetta fatback spare ribs chuck short loin. Kielbasa biltong bresaola frankfurter, picanha turkey tail drumstick brisket pancetta pork chuck pork belly flank. Swine brisket jowl hamburger short ribs shankle. Short ribs picanha burgdoggen pastrami ball tip jowl swine pork turkey turducken.
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
