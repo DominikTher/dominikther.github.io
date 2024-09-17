@@ -30,14 +30,12 @@ layout: base
     {{ content }}
   </div>
 
+  <p>Tags</p>
+  <p>
   {% for tag in site.tags %}
-    <h3>Tags{{ tag[0] }}</h3>  page.url
-    <p>
-    {% for post in tag[1] %}
-      <a href="{{ page.url }}/archive">{{ post.title }}</a>, 
-    {% endfor %}
-    </p>
+    <a href="{{ my_page.url }}/archive">{{ tag[0] }}</a>, 
   {% endfor %}
-
+  </p>
+  
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
