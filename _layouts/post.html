@@ -1,6 +1,13 @@
 ---
 layout: base
 ---
+
+<style>
+  .tag-link {
+    margin-right: 15px;
+  }
+</style>
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -33,7 +40,7 @@ layout: base
   <p>Tags</p>
   <p>
   {% for tag in site.tags %}
-    <a href="{{ my_page.url }}/archive">{{ tag[0] }}</a>, 
+    <a href="{{ my_page.url }}/archive" class="tag-link">{{ tag[0] }}</a>
   {% endfor %}
   </p>
   
