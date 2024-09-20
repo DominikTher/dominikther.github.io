@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exploring Complex Business Logic in .NET with Onion Architecture, CQRS, and Unit of Work"
-tags: .net onion-architecture uni-of-Work
+tags: .net onion-architecture unit-of-Work
 ---
 
 In my previous company, we primarily developed APIs in .NET, following the Onion Architecture pattern. I’ve continued using this architecture in my projects, applying the Command Query Responsibility Segregation (CQRS) pattern, where all database-related logic is encapsulated within commands. 
